@@ -15,7 +15,7 @@ Ensure you have the following Python libraries installed:
 
 You can install them using the following command:
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+pip install numpy pandas matplotlib seaborn scikit-learn xgboost ```
 
 ## Dataset
 The California Housing dataset is loaded using scikit-learn's fetch_california_housing function. The dataset contains information about median income, house age, average rooms, average bedrooms, population, average occupancy, latitude, and longitude, with the target variable being the median house value.
