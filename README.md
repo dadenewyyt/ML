@@ -75,3 +75,10 @@ These summaries provide an overview of the Linear Regression and Random Forest m
 A scatter plot is created to visualize the actual prices against the predicted prices on the training set.
 
 Feel free to explore and modify the script for further experimentation and improvement.
+
+You can install them using the following command:
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn xgboost
+
+
+
